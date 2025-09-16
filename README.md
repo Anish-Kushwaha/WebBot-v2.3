@@ -79,6 +79,28 @@ while True:
 
 
 
+requirements.txt
+
+#Requirements
+requests
+beautifulsoup4
+pip install -r
+
+
+#Run The Bot
+git clone https://github.com/your-username/WebBot.git
+cd WebBot
+python webbot_v2.3.py
 
 
 
+
+#---
+
+🔥 This version has **everything in one place** (HTML badges, preview, code, requirements, run instructions, author).  
+
+Do you also want me to add a **GitHub Pages HTML demo** (like a styled `index.html` showing project info) so repo looks cooler?
+
+
+
+ 
