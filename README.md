@@ -25,7 +25,19 @@
 
 ---
 
-<h2>📸 Preview</h2>
+<h2>Requirements</h2>
+<ul>
+  <li>requests</li>
+  <li>beautifulsoup4</li>
+  <li>pip install -r </li>
+</ul>
+
+<h2> Run The Bot </h2>
+<ul>
+<li>git clone https://github.com/yourusername/WebBot-v2.3.git </li>
+<li>cd WebBot-v2.3</li>
+<li>python webbot_v2.3.py</li>
+</ul>
 
 <p align="center">
   <img src="https://github.com/yourusername/WebBot-v2.3/assets/preview.png" width="600px">
@@ -60,7 +72,7 @@ print(CYAN + r"""
 
 print(f"{YELLOW}Creator : 𝓐𝓷𝓲𝓼𝓱 𝓚𝓾𝓼𝓱𝔀𝓪𝓱𝓪")
 print(f"{YELLOW}Email   : Anish_Kushwaha@proton.me")
-print(f"{YELLOW}Website : Anish-kushwaha-g.b12sites.com\n")
+print(f"{YELLOW}Website : Anish-kushwaha.b12sites.com\n")
 
 print(f"{GREEN}🤖 WebBot : Ask me anything! Type 'bye' to quit.{RESET}\n")
 
